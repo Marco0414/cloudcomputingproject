@@ -1,4 +1,4 @@
-",""caller_id"",""assigned_to"",""assignment_group"",""u_symptom"",""sys_updated_by"",""incident_state"",""subcategory"",""category"",""active"",""u_priority_confirmation"",""sys_created_by"",""opened_by"",""location"",""made_sla"",""knowledge"",""priority"",""complTime"""
+,'caller_id','assigned_to','assignment_group','u_symptom','sys_updated_by','incident_state','subcategory','category','active','u_priority_confirmation','sys_created_by','opened_by','location','made_sla','knowledge','priority','complTime'
 4,1464,1,49,503,763,7,71,48,1,1,153,202,45,2,2,3,130.733333333333
 5,1464,225,65,354,606,8,114,32,2,1,60,122,64,2,2,3,149.333333333333
 11,1464,225,17,354,222,5,114,32,2,1,60,122,64,2,2,3,149.333333333333
